@@ -46,11 +46,13 @@ $\textcolor{gray}{\textsf{=}}$
 &nbsp;&nbsp;&nbsp; A &nbsp; B &nbsp; C &nbsp; D &nbsp; E &nbsp; F  
 6 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 6  
 5 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 5  
-4 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 4  &nbsp;&nbsp;&nbsp;&nbsp; Black (X) has 0 stones  
-3 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 3  &nbsp;&nbsp;&nbsp;&nbsp; White (O) has 0 stones  
+4 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 4  
+3 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 3  
 2 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 2  
 1 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 1  
 &nbsp;&nbsp;&nbsp; A &nbsp; B &nbsp; C &nbsp; D &nbsp; E &nbsp; F  
+Black (X) has 0 stones  
+White (O) has 0 stones  
 
 *player white random*  
 $\textcolor{gray}{\textsf{=}}$  
@@ -63,11 +65,13 @@ WHITE : A1
 &nbsp;&nbsp;&nbsp; A &nbsp; B &nbsp; C &nbsp; D &nbsp; E &nbsp; F  
 6 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 6  
 5 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 5  
-4 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 4  &nbsp;&nbsp;&nbsp;&nbsp; Black (X) has 0 stones  
-3 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 3  &nbsp;&nbsp;&nbsp;&nbsp; White (O) has 0 stones  
+4 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 4  
+3 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 3  
 2 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 2  
 1 &nbsp;O &nbsp; X &nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 1  
 &nbsp;&nbsp;&nbsp; A &nbsp; B &nbsp; C &nbsp; D &nbsp; E &nbsp; F  
+Black (X) has 0 stones  
+White (O) has 0 stones  
 
 *play black a1*  
 $\textcolor{red}{\textsf{? illegal move}}$  
@@ -78,11 +82,13 @@ WHITE : D4
 &nbsp;&nbsp;&nbsp; A &nbsp; B &nbsp; C &nbsp; D &nbsp; E &nbsp; F  
 6 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 6  
 5 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 5  
-4 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; O&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 4  &nbsp;&nbsp;&nbsp;&nbsp; Black (X) has 1 stones  
-3 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 3  &nbsp;&nbsp;&nbsp;&nbsp; White (O) has 0 stones  
+4 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; O&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 4  
+3 &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 3  
 2 &nbsp; X &nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp;&nbsp;. &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 2  
 1 &nbsp; . &nbsp; X &nbsp; . &nbsp;&nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp;&nbsp; . &nbsp; 1  
 &nbsp;&nbsp;&nbsp; A &nbsp; B &nbsp; C &nbsp; D &nbsp; E &nbsp; F  
+Black (X) has 1 stones  
+White (O) has 0 stones  
 
 En Pratique :
 -
