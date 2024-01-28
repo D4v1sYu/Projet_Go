@@ -92,11 +92,14 @@ White (O) has 0 stones
 
 En Pratique :
 -
-Le jeu est fonctionnel, mais y jouer en ligne de commande est très fastidieux, on se retrouve à taper chaque commande une par une pour pouvoir faire une vraie partie (qui à la base dure 30min).
+Le jeu est fonctionnel, mais y jouer en ligne de commande est très fastidieux, on se retrouve à taper chaque commande une par une pour pouvoir faire une vraie partie (qui à la base dure 30min).  
 L'ajout de différent type de joueurs nous poussent à devoir programmer de manière plus optimal pour qu'à l'avenir on ajoute des types en plus.
+L'intelligence du robot est aussi à revoir, ici on se contente seulement de faire jouer automatiquement le joueur sur une case valide aléatoirement.
+Ce manque de stratégie fait qu'un humain arrive à battre sans aucune difficulté les robots implémentés.  
+Ainsi des types de robots pourraient être développer, tels que : IAeasy, IAnormal, IAhard.
 
 Conclusion :
 -
 C'est un projet Java que j'ai pu réalisé en équipe (difficilement au vu de la mauvaise organisation).
-Mais l'objectif principal est d'apprendre à suivre plusieurs principes de programmation (SOLID) et en essayant de comprendre la documentation d'un jeu fonctionnel (GNUGo).
+Mais l'objectif principal est d'apprendre à suivre plusieurs principes de programmation (SOLID) et en essayant de comprendre la documentation d'un jeu fonctionnel (GNUGo).  
 Nous avons aussi introduit la réalisation de tests lors de ce projet, il faut que je continue d'apprendre et suivre une bonne méthodologie de programmation.
