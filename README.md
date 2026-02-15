@@ -20,14 +20,14 @@ Notre projet consistait à développer une application permettant de jouer une p
 Nous avons également suivi diverses contraintes de développement, en particulier les **principes SOLID**.  
 En plus du jeu de base, l’un des objectifs était d’implémenter des joueurs non humains, permettant de jouer contre un robot.
 
-Fonctionalités :
+Fonctionnalités :
 -
 Toutes les règles du jeu n’ont pas été implémentées, mais voici celles qui ont été gérées :
 - Plateau personnalisable : taille modifiable
 - Groupes/chaînes : des pierres adjacentes forment un groupe
 - Captures : un groupe encerclé par l’adversaire est retiré du plateau
 - Score/prisonniers : les pierres capturées sont comptabilisées
-- Suicide interdit : il est interdit de jouer sur une intersection sans liberté (liberté = case vide adjacente)
+- Suicide interdit : il est interdit de jouer sur une intersection sans liberté (une liberté = une intersection vide adjacente)
 - Règle du Ko (simplifiée) : interdiction de rejouer sur une position précédente
 - Passer son tour : les joueurs peuvent passer
 - Fin de partie : la partie se termine si les deux joueurs passent consécutivement
